@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="javafx" name="dekoder">
-    <output-path>$PROJECT_DIR$/out/artifacts/dekoder</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/dekoderGUI</output-path>
     <properties id="javafx-properties">
       <options>
         <option name="appClass" value="view.gui.View" />
@@ -14,11 +14,10 @@
       </options>
     </properties>
     <root id="root">
-      <element id="archive" name="dekoder.jar">
-        <element id="module-output" name="dekoder" />
-      </element>
+      <element id="module-output" name="dekoder" />
       <element id="library" level="project" name="jfoenix" />
-      <element id="library" level="project" name="kotlin-runtime" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="library" level="project" name="mp3Support" />
     </root>
   </artifact>
 </component>
