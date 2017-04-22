@@ -18,7 +18,7 @@
       </element>
       <element id="library" level="project" name="KotlinJavaRuntime" />
       <element id="library" level="project" name="jfoenix" />
-      <element id="library" level="project" name="mp3Support" />
+      <element id="library" level="project" name="jl1.0.1" />
     </root>
   </artifact>
 </component>
